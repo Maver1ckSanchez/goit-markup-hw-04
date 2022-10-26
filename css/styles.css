@@ -158,7 +158,7 @@ ul {
     url(../img/hero-bg.jpg);
   background-repeat: no-repeat;
   background-position: center;
-  backgrond-size: cover;
+  background-size: cover;
 }
 
 .hero-text {
@@ -454,7 +454,6 @@ ul {
 }
 
 .join-footer {
-  display: baseline;
   align-items: center;
 }
 
